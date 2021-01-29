@@ -1411,3 +1411,60 @@ Man_C.ReceiveBeginPlay
 [2021.01.29-20.51.28:315][622]LogFileHelpers: Loading map 'JosephWonderLand' took 0.109
 [2021.01.29-20.51.28:330][622]AssetCheck: New page: Asset Save: RIGHT_PLATFORM_RESIZE
 [2021.01.29-20.51.28:330][622]LogContentValidation: Display: Validating StaticMesh /Game/3DAssets/RIGHT_PLATFORM_RESIZE.RIGHT_PLATFORM_RESIZE
+[2021.01.29-20.53.17:035][110]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.01.29-20.53.19:037][336]Cmd: DELETE
+[2021.01.29-20.53.19:037][336]Cmd: ACTOR DELETE
+[2021.01.29-20.53.19:250][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.29-20.53.19:259][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.01.29-20.53.19:261][336]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.01.29-20.53.21:301][580]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.29-20.53.23:531][801]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.29-20.53.23:931][840]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.01.29-20.53.30:634][491]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.01.29-20.53.43:384][797]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.01.29-20.57.55:239][616]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.58.11:046][768]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.58.11:060][768]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/14fan/Downloads/Platform_Left_3DAsset_TamaraVega_01.fbx)
+[2021.01.29-20.58.11:070][768]LogFbx: Loading FBX Scene from C:/Users/14fan/Downloads/Platform_Left_3DAsset_TamaraVega_01.fbx
+[2021.01.29-20.58.11:077][768]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.29-20.58.11:136][768]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.58.12:707][768]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.29-20.58.12:723][768]LogFbx: Display: Triangulating static mesh polySurface3
+[2021.01.29-20.58.12:730][768]LogStaticMesh: Building static mesh Platform_Left_3DAsset_TamaraVega_01...
+[2021.01.29-20.58.12:732][768]LogStaticMesh: Built static mesh [0.00s] /Game/3DAssets/Platform_Left_3DAsset_TamaraVega_01.Platform_Left_3DAsset_TamaraVega_01
+[2021.01.29-20.58.14:312][897]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.58.14:388][901]LogActorFactory: Actor Factory created Platform_Left_3DAsset_TamaraVega_01
+[2021.01.29-20.58.16:602][ 72]LogActorFactory: Actor Factory created Platform_Left_3DAsset_TamaraVega_01
+[2021.01.29-20.58.35:433][205]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.58.35:819][229]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.58.46:146][193]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.58.46:649][235]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.58.49:329][481]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.58.54:004][582]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.58.54:023][582]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/14fan/Downloads/Platform_Middle_3DAsset_TamaraVega_01.fbx)
+[2021.01.29-20.58.54:034][582]LogFbx: Loading FBX Scene from C:/Users/14fan/Downloads/Platform_Middle_3DAsset_TamaraVega_01.fbx
+[2021.01.29-20.58.54:041][582]LogFbx: FBX Scene Loaded Succesfully
+[2021.01.29-20.58.54:099][582]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.58.55:845][582]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.01.29-20.58.55:860][582]LogFbx: Display: Triangulating static mesh polySurface4
+[2021.01.29-20.58.55:865][582]LogStaticMesh: Building static mesh Platform_Middle_3DAsset_TamaraVega_01...
+[2021.01.29-20.58.55:866][582]LogStaticMesh: Built static mesh [0.00s] /Game/3DAssets/Platform_Middle_3DAsset_TamaraVega_01.Platform_Middle_3DAsset_TamaraVega_01
+[2021.01.29-20.58.57:262][693]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.58.57:303][694]LogActorFactory: Actor Factory created Platform_Middle_3DAsset_TamaraVega_01
+[2021.01.29-20.58.58:046][747]LogActorFactory: Actor Factory created Platform_Middle_3DAsset_TamaraVega_01
+[2021.01.29-20.59.04:393][ 92]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.59.04:411][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.01.29-20.59.04:560][ 92]LogSavePackage: Moving 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Saved/JosephWonderLandCA98C3724C0DF1ADC6C41D88DAD6029B.tmp' to 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Maps/JosephWonderLand.umap'
+[2021.01.29-20.59.04:575][ 92]AssetCheck: New page: Asset Save: JosephWonderLand
+[2021.01.29-20.59.04:575][ 92]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/JosephWonderLand.JosephWonderLand
+[2021.01.29-20.59.05:727][148]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.59.07:612][323]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.59.07:656][323]LogSavePackage: Moving 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Saved/Platform_Middle_3DAsset_TamaraVe1D523B94497580F71A701CB56F44AC6E.tmp' to 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Content/3DAssets/Platform_Middle_3DAsset_TamaraVega_01.uasset'
+[2021.01.29-20.59.07:666][323]AssetCheck: New page: Asset Save: Platform_Middle_3DAsset_TamaraVega_01
+[2021.01.29-20.59.07:666][323]LogContentValidation: Display: Validating StaticMesh /Game/3DAssets/Platform_Middle_3DAsset_TamaraVega_01.Platform_Middle_3DAsset_TamaraVega_01
+[2021.01.29-20.59.08:196][348]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.59.10:460][524]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.59.14:143][881]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.29-20.59.14:187][881]LogSavePackage: Moving 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Saved/Platform_Left_3DAsset_TamaraVegaAA7761EA48CA322FEF0EDEB6A44961EF.tmp' to 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Content/3DAssets/Platform_Left_3DAsset_TamaraVega_01.uasset'
+[2021.01.29-20.59.14:196][881]AssetCheck: New page: Asset Save: Platform_Left_3DAsset_TamaraVega_01
+[2021.01.29-20.59.14:196][881]LogContentValidation: Display: Validating StaticMesh /Game/3DAssets/Platform_Left_3DAsset_TamaraVega_01.Platform_Left_3DAsset_TamaraVega_01
