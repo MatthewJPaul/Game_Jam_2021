@@ -4071,6 +4071,7 @@ Man_C.ReceiveBeginPlay
 [2021.01.30-01.07.16:508][413]LogSavePackage: Moving '../../../../../../Users/danch/OneDrive/Documents/GitHub/Game_Jam_2021/2021GGJ/Saved/DanielChevereWonderLand292A14204E6C18A42A488B99C776B83C.tmp' to '../../../../../../Users/danch/OneDrive/Documents/GitHub/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Maps/DanielChevereWonderLand.umap'
 [2021.01.30-01.07.16:556][413]AssetCheck: New page: Asset Save: DanielChevereWonderLand
 [2021.01.30-01.07.16:556][413]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/DanielChevereWonderLand.DanielChevereWonderLand
+<<<<<<< Updated upstream
 [2021.01.30-01.07.52:537][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
 [2021.01.30-01.07.52:587][585]LogSavePackage: Moving '../../../../../../Users/danch/OneDrive/Documents/GitHub/Game_Jam_2021/2021GGJ/Saved/DanielChevereWonderLand5927A7B4434CAFF6EA257996B48AFE78.tmp' to '../../../../../../Users/danch/OneDrive/Documents/GitHub/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Maps/DanielChevereWonderLand.umap'
 [2021.01.30-01.07.52:625][585]AssetCheck: New page: Asset Save: DanielChevereWonderLand
@@ -4673,3 +4674,5 @@ Man_C.ReceiveBeginPlay
 [2021.01.30-01.07.59:121][633]LogD3D11RHI: CleanupD3DDevice
 [2021.01.30-01.07.59:188][633]LogExit: Exiting.
 [2021.01.30-01.07.59:228][633]Log file closed, 01/29/21 21:07:59
+=======
+>>>>>>> Stashed changes
