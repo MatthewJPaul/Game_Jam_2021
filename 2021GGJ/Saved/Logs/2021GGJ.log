@@ -5086,3 +5086,398 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-05.26.47:684][ 86]LogContentValidation: Display: Validating PaperSprite /Game/2DAssets/Placeholder/Dogclean_Sprite.Dogclean_Sprite
 [2021.01.30-05.26.47:684][ 86]LogContentValidation: Display: Validating Texture2D /Game/2DAssets/Placeholder/Dogclean.Dogclean
 [2021.01.30-05.26.47:684][ 86]LogContentValidation: Display: Validating Texture2D /Game/2DAssets/Placeholder/doggy_color.doggy_color
+[2021.01.30-05.29.40:372][338]LogAssetTools: Warning: Failed to import 'C:\Users\Matth\Downloads\DogWalk_Animation_KennaGreen_01 (1).gif'. Unknown extension 'gif'.
+[2021.01.30-05.31.23:043][  4]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Matth\Downloads\Wolf_Idle_Sequence-20210130T053012Z-001\Wolf_Idle_Sequence/idle_0000.png)
+[2021.01.30-05.31.23:050][  4]LogTexture: Display: Building textures: idle_0000 (AutoDXT, 720X540)
+[2021.01.30-05.31.23:141][  4]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Matth\Downloads\Wolf_Idle_Sequence-20210130T053012Z-001\Wolf_Idle_Sequence/idle_0001.png)
+[2021.01.30-05.31.23:147][  4]LogTexture: Display: Building textures: idle_0001 (AutoDXT, 720X540)
+[2021.01.30-05.31.23:239][  4]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Matth\Downloads\Wolf_Idle_Sequence-20210130T053012Z-001\Wolf_Idle_Sequence/idle_0002.png)
+[2021.01.30-05.31.23:245][  4]LogTexture: Display: Building textures: idle_0002 (AutoDXT, 720X540)
+[2021.01.30-05.31.23:332][  4]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Matth\Downloads\Wolf_Idle_Sequence-20210130T053012Z-001\Wolf_Idle_Sequence/idle_0003.png)
+[2021.01.30-05.31.23:338][  4]LogTexture: Display: Building textures: idle_0003 (AutoDXT, 720X540)
+[2021.01.30-05.31.28:313][453]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0000.idle_0000
+[2021.01.30-05.31.28:352][453]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.01.30-05.31.42:946][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2021.01.30-05.31.44:768][ 50]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-05.31.44:900][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.01.30-05.31.44:938][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.01.30-05.31.44:968][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.01.30-05.31.51:601][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.01.30-05.31.52:672][773]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-05.31.52:753][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.01.30-05.32.10:005][792]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Sprites/Fox_Book.Fox_Book
+[2021.01.30-05.33.49:223][ 24]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/NewPaperSprite.NewPaperSprite
+[2021.01.30-05.33.51:567][270]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-05.33.51:568][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-05.34.00:907][245]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.01.30-05.34.02:977][245]LogSlate: Window 'Save Content' being destroyed
+[2021.01.30-05.34.30:190][349]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Sprie_Fox_Idle_00194545D764A9B60E289E56CAE4C4E041A.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprie_Fox_Idle_001.uasset'
+[2021.01.30-05.34.30:275][349]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.01.30-05.34.30:321][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.01.30-05.34.30:351][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.01.30-05.34.30:401][349]AssetCheck: New page: Asset Save: Sprie_Fox_Idle_001
+[2021.01.30-05.34.30:401][349]LogContentValidation: Display: Validating PaperSprite /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprie_Fox_Idle_001.Sprie_Fox_Idle_001
+[2021.01.30-05.34.47:089][262]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Sprite_Fox_idle_002E10A84F04F26C426AFA929A368944F78.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_002.uasset'
+[2021.01.30-05.34.47:176][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.01.30-05.34.47:218][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.01.30-05.34.47:248][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.01.30-05.34.47:289][262]AssetCheck: New page: Asset Save: Sprite_Fox_idle_002
+[2021.01.30-05.34.47:289][262]LogContentValidation: Display: Validating PaperSprite /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_002.Sprite_Fox_idle_002
+[2021.01.30-05.34.57:598][417]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Sprite_Fox_idle_002Sprite_Fox_id580FCFE640C984C05B849AA8FAECA00F.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_002Sprite_Fox_idle_003.uasset'
+[2021.01.30-05.34.57:685][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.01.30-05.34.57:723][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.01.30-05.34.57:751][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.01.30-05.34.57:786][417]AssetCheck: New page: Asset Save: Sprite_Fox_idle_002Sprite_Fox_idle_003
+[2021.01.30-05.34.57:786][417]LogContentValidation: Display: Validating PaperSprite /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_002Sprite_Fox_idle_003.Sprite_Fox_idle_002Sprite_Fox_idle_003
+[2021.01.30-05.35.04:890][211]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Sprite_Fox_idle_004C554CA86428C661A01D338BF6E9CC19C.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_004.uasset'
+[2021.01.30-05.35.04:975][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.01.30-05.35.05:013][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.01.30-05.35.05:042][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.01.30-05.35.05:077][211]AssetCheck: New page: Asset Save: Sprite_Fox_idle_004
+[2021.01.30-05.35.05:077][211]LogContentValidation: Display: Validating PaperSprite /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_004.Sprite_Fox_idle_004
+[2021.01.30-05.35.09:267][686]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprie_Fox_Idle_001.Sprie_Fox_Idle_001
+[2021.01.30-05.35.18:238][657]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Sprie_Fox_Idle_0012515018D48C546FB6FC5C09A704DC05C.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprie_Fox_Idle_001.uasset'
+[2021.01.30-05.35.18:248][657]AssetCheck: New page: Asset Save: Sprie_Fox_Idle_001
+[2021.01.30-05.35.18:248][657]LogContentValidation: Display: Validating PaperSprite /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprie_Fox_Idle_001.Sprie_Fox_Idle_001
+[2021.01.30-05.35.20:299][893]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-05.35.20:299][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-05.35.23:864][290]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_002.Sprite_Fox_idle_002
+[2021.01.30-05.35.30:832][ 27]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Sprite_Fox_idle_002892AFC754ACDC6637915F88CC4732C8B.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_002.uasset'
+[2021.01.30-05.35.30:843][ 27]AssetCheck: New page: Asset Save: Sprite_Fox_idle_002
+[2021.01.30-05.35.30:843][ 27]LogContentValidation: Display: Validating PaperSprite /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_002.Sprite_Fox_idle_002
+[2021.01.30-05.35.30:943][ 37]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Sprite_Fox_idle_002C3D643D94B49C9CCF4346AAF94EFBDC9.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_002.uasset'
+[2021.01.30-05.35.30:953][ 37]AssetCheck: New page: Asset Save: Sprite_Fox_idle_002
+[2021.01.30-05.35.30:953][ 37]LogContentValidation: Display: Validating PaperSprite /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_002.Sprite_Fox_idle_002
+[2021.01.30-05.35.34:069][397]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-05.35.34:070][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-05.35.39:213][974]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_002Sprite_Fox_idle_003.Sprite_Fox_idle_002Sprite_Fox_idle_003
+[2021.01.30-05.35.46:248][735]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Sprite_Fox_idle_002Sprite_Fox_idAA68ABFB42ADFBA205801BB370155EC1.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_002Sprite_Fox_idle_003.uasset'
+[2021.01.30-05.35.46:258][735]AssetCheck: New page: Asset Save: Sprite_Fox_idle_002Sprite_Fox_idle_003
+[2021.01.30-05.35.46:258][735]LogContentValidation: Display: Validating PaperSprite /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_002Sprite_Fox_idle_003.Sprite_Fox_idle_002Sprite_Fox_idle_003
+[2021.01.30-05.35.47:634][889]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-05.35.47:634][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-05.35.51:559][317]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_004.Sprite_Fox_idle_004
+[2021.01.30-05.35.58:211][ 29]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Sprite_Fox_idle_0046AECA9954DA5461965CDB09097557EEF.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_004.uasset'
+[2021.01.30-05.35.58:221][ 29]AssetCheck: New page: Asset Save: Sprite_Fox_idle_004
+[2021.01.30-05.35.58:221][ 29]LogContentValidation: Display: Validating PaperSprite /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_004.Sprite_Fox_idle_004
+[2021.01.30-05.36.00:038][235]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-05.36.00:038][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-05.36.18:146][294]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Sprite_Fox_idle_0035620C13D4D75850B1464E5909840A4B3.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_003.uasset'
+[2021.01.30-05.36.18:241][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.01.30-05.36.18:283][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.01.30-05.36.18:312][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.01.30-05.36.18:348][294]AssetCheck: New page: Asset Save: Sprite_Fox_idle_003
+[2021.01.30-05.36.18:348][294]LogContentValidation: Display: Validating PaperSprite /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/Sprite_Fox_idle_003.Sprite_Fox_idle_003
+[2021.01.30-05.37.53:764][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.01.30-05.37.53:769][ 76]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.036
+[2021.01.30-05.37.53:769][ 76]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0000] ([1] browsable assets)...
+[2021.01.30-05.37.53:771][ 76]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0000.idle_0000]
+[2021.01.30-05.37.53:771][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0000]
+[2021.01.30-05.37.53:778][ 76]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/idle_0000_Auto64199A09F46D09D1C43DFE3B357FF84B9.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Autosaves/Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0000_Auto6.uasset'
+[2021.01.30-05.37.53:778][ 76]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0001] ([1] browsable assets)...
+[2021.01.30-05.37.53:780][ 76]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0001.idle_0001]
+[2021.01.30-05.37.53:780][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0001]
+[2021.01.30-05.37.53:788][ 76]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/idle_0001_Auto656CBB3894A56B039587E88B667128E42.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Autosaves/Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0001_Auto6.uasset'
+[2021.01.30-05.37.53:788][ 76]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0002] ([1] browsable assets)...
+[2021.01.30-05.37.53:790][ 76]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0002.idle_0002]
+[2021.01.30-05.37.53:790][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0002]
+[2021.01.30-05.37.53:796][ 76]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/idle_0002_Auto69095A6DB43383D3EFD6A8889F03E4052.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Autosaves/Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0002_Auto6.uasset'
+[2021.01.30-05.37.53:797][ 76]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0003] ([1] browsable assets)...
+[2021.01.30-05.37.53:799][ 76]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0003.idle_0003]
+[2021.01.30-05.37.53:799][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0003]
+[2021.01.30-05.37.53:822][ 76]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/idle_0003_Auto6105A1441487115FDF2EC90B742DD8ECC.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Autosaves/Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0003_Auto6.uasset'
+[2021.01.30-05.37.53:822][ 76]LogFileHelpers: Auto-saving content packages took 0.054
+[2021.01.30-05.40.07:454][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Fox_Book" FILE="../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/Sprites/Fox_Book.uasset" SILENT=true
+[2021.01.30-05.40.07:461][844]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Fox_Book517D24AC49C8681890C2D8A211D6AC5E.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/Sprites/Fox_Book.uasset'
+[2021.01.30-05.40.07:473][844]AssetCheck: New page: Asset Save: Fox_Book
+[2021.01.30-05.40.07:473][844]LogContentValidation: Display: Validating PaperFlipbook /Game/Sprites/Fox_Book.Fox_Book
+[2021.01.30-05.40.07:617][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Fox_Book" FILE="../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/Sprites/Fox_Book.uasset" SILENT=true
+[2021.01.30-05.40.07:622][859]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Fox_BookA3C3BF964944AC4743F6168A85E6BA00.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/Sprites/Fox_Book.uasset'
+[2021.01.30-05.40.07:632][859]AssetCheck: New page: Asset Save: Fox_Book
+[2021.01.30-05.40.07:632][859]LogContentValidation: Display: Validating PaperFlipbook /Game/Sprites/Fox_Book.Fox_Book
+[2021.01.30-05.40.20:512][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Fox_Book" FILE="../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/Sprites/Fox_Book.uasset" SILENT=true
+[2021.01.30-05.40.20:517][402]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Fox_BookE527DDF54D60B87E95CD2AA4F2AB9B83.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/Sprites/Fox_Book.uasset'
+[2021.01.30-05.40.20:527][402]AssetCheck: New page: Asset Save: Fox_Book
+[2021.01.30-05.40.20:527][402]LogContentValidation: Display: Validating PaperFlipbook /Game/Sprites/Fox_Book.Fox_Book
+[2021.01.30-05.40.20:662][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Fox_Book" FILE="../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/Sprites/Fox_Book.uasset" SILENT=true
+[2021.01.30-05.40.20:667][417]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Fox_Book96BC1BCC40CB687ACFDEB69A409CA84E.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/Sprites/Fox_Book.uasset'
+[2021.01.30-05.40.20:676][417]AssetCheck: New page: Asset Save: Fox_Book
+[2021.01.30-05.40.20:676][417]LogContentValidation: Display: Validating PaperFlipbook /Game/Sprites/Fox_Book.Fox_Book
+[2021.01.30-05.40.20:812][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Fox_Book" FILE="../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/Sprites/Fox_Book.uasset" SILENT=true
+[2021.01.30-05.40.20:817][431]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Fox_BookF102EA5243E511064E4D95B62AED042A.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/Sprites/Fox_Book.uasset'
+[2021.01.30-05.40.20:827][431]AssetCheck: New page: Asset Save: Fox_Book
+[2021.01.30-05.40.20:827][431]LogContentValidation: Display: Validating PaperFlipbook /Game/Sprites/Fox_Book.Fox_Book
+[2021.01.30-05.41.31:596][655]BlueprintLog: New page: Compile Fox
+[2021.01.30-05.41.31:745][655]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.01.30-05.41.37:334][264]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-05.41.37:334][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-05.42.12:596][370]BlueprintLog: New page: Compile Fox
+[2021.01.30-05.42.12:743][370]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.01.30-05.42.14:109][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/Fox" FILE="../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Blueprints/Fox.uasset" SILENT=true
+[2021.01.30-05.42.14:126][512]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/Fox49EF5997463E7738D15988BA0BE8DAEF.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Blueprints/Fox.uasset'
+[2021.01.30-05.42.14:136][512]AssetCheck: New page: Asset Save: Fox
+[2021.01.30-05.42.14:136][512]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/Fox.Fox
+[2021.01.30-05.42.16:019][706]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-05.42.16:034][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-05.42.16:034][706]PIE: New page: PIE session: SideScrollerExampleMap (Jan 29, 2021, 7:42:16 PM)
+[2021.01.30-05.42.16:034][706]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.01.30-05.42.16:043][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008967s)
+[2021.01.30-05.42.16:044][706]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.01.30-05.42.16:044][706]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2021.01.30-05.42.16:044][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.010009s)
+[2021.01.30-05.42.16:078][706]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2021.01.30-05.42.16:081][706]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2021.01.30-05.42.16:081][706]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-05.42.16:081][706]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-05.42.16:081][706]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-05.42.16:081][706]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-05.42.16:081][706]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-05.42.16:081][706]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-05.42.16:081][706]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-05.42.16:081][706]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-05.42.16:082][706]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-05.42.16:082][706]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-05.42.16:088][706]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-05.42.16:088][706]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-05.42.16:102][706]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.30-05.42.16:102][706]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-05.42.16:103][706]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-05.42.16:103][706]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-05.42.16:103][706]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-05.42.16:103][706]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-05.42.16:103][706]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-05.42.16:113][706]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-05.42.16:113][706]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-05.42.16:113][706]LogInit: FAudioDevice initialized.
+[2021.01.30-05.42.16:114][706]LogAudio: Display: Audio Device (ID: 57) registered with world 'SideScrollerExampleMap'.
+[2021.01.30-05.42.16:120][706]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.01.30-05.42.16:123][706]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.01.30-00.42.16
+[2021.01.30-05.42.16:123][706]LogWorld: Bringing up level for play took: 0.002310
+[2021.01.30-05.42.16:123][706]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2021.01.30-05.42.16:125][706]PIE: Server logged in
+[2021.01.30-05.42.16:126][706]PIE: Play in editor total start time 0.092 seconds.
+[2021.01.30-05.42.17:243][835]LogBlueprintUserMessages: [SideScrollerCharacter_78] Swap
+[2021.01.30-05.42.18:819][ 24]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.42.18:827][ 25]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.42.18:960][ 41]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.42.20:058][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-05.42.20:058][168]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.01.30-05.42.20:058][168]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-05.42.20:059][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-05.42.20:073][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-05.42.20:108][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-05.42.20:136][168]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-05.42.20:136][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-05.42.20:137][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-05.42.20:150][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-05.42.20:154][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.01.30-05.42.20:203][169]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2021.01.30-05.42.26:586][886]BlueprintLog: New page: Compile Fox
+[2021.01.30-05.42.26:729][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.01.30-05.42.27:228][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/Fox" FILE="../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Blueprints/Fox.uasset" SILENT=true
+[2021.01.30-05.42.27:790][932]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/FoxF779CB0D4E9F377EA222A0A507D08553.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Blueprints/Fox.uasset'
+[2021.01.30-05.42.27:828][932]AssetCheck: New page: Asset Save: Fox
+[2021.01.30-05.42.27:828][932]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/Fox.Fox
+[2021.01.30-05.42.28:768][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-05.42.28:777][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-05.42.28:778][ 14]PIE: New page: PIE session: SideScrollerExampleMap (Jan 29, 2021, 7:42:28 PM)
+[2021.01.30-05.42.28:807][ 14]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.01.30-05.42.28:816][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008617s)
+[2021.01.30-05.42.28:816][ 14]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.01.30-05.42.28:817][ 14]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2021.01.30-05.42.28:817][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009650s)
+[2021.01.30-05.42.28:850][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.01.30-05.42.28:852][ 14]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2021.01.30-05.42.28:852][ 14]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-05.42.28:852][ 14]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-05.42.28:852][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-05.42.28:852][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-05.42.28:852][ 14]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-05.42.28:852][ 14]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-05.42.28:852][ 14]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-05.42.28:852][ 14]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-05.42.28:853][ 14]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-05.42.28:853][ 14]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-05.42.28:858][ 14]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-05.42.28:858][ 14]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-05.42.28:871][ 14]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.30-05.42.28:871][ 14]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-05.42.28:872][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-05.42.28:872][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-05.42.28:872][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-05.42.28:872][ 14]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-05.42.28:872][ 14]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-05.42.28:882][ 14]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-05.42.28:882][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-05.42.28:883][ 14]LogInit: FAudioDevice initialized.
+[2021.01.30-05.42.28:883][ 14]LogAudio: Display: Audio Device (ID: 58) registered with world 'SideScrollerExampleMap'.
+[2021.01.30-05.42.28:894][ 14]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.01.30-05.42.28:896][ 14]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.01.30-00.42.28
+[2021.01.30-05.42.28:896][ 14]LogWorld: Bringing up level for play took: 0.002174
+[2021.01.30-05.42.28:896][ 14]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2021.01.30-05.42.28:898][ 14]PIE: Server logged in
+[2021.01.30-05.42.28:899][ 14]PIE: Play in editor total start time 0.122 seconds.
+[2021.01.30-05.42.30:084][152]LogBlueprintUserMessages: [SideScrollerCharacter_78] Swap
+[2021.01.30-05.42.31:000][262]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.42.31:009][263]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.42.31:017][264]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.42.32:451][436]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.42.32:459][437]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.42.32:884][488]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.42.33:237][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-05.42.33:237][526]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.01.30-05.42.33:238][526]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-05.42.33:238][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-05.42.33:251][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-05.42.33:286][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-05.42.33:315][526]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-05.42.33:315][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-05.42.33:316][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-05.42.33:328][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-05.42.33:333][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.01.30-05.42.33:380][527]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2021.01.30-05.42.38:530][103]BlueprintLog: New page: Compile Fox
+[2021.01.30-05.42.38:678][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.01.30-05.42.39:335][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/Fox" FILE="../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Blueprints/Fox.uasset" SILENT=true
+[2021.01.30-05.42.39:350][163]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/FoxBC22868B44C4636A317EAE9D6719AA89.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Blueprints/Fox.uasset'
+[2021.01.30-05.42.39:364][163]AssetCheck: New page: Asset Save: Fox
+[2021.01.30-05.42.39:364][163]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/Fox.Fox
+[2021.01.30-05.42.43:454][588]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-05.42.43:463][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-05.42.43:463][588]PIE: New page: PIE session: SideScrollerExampleMap (Jan 29, 2021, 7:42:43 PM)
+[2021.01.30-05.42.43:487][588]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.01.30-05.42.43:496][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008621s)
+[2021.01.30-05.42.43:496][588]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.01.30-05.42.43:497][588]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2021.01.30-05.42.43:497][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009640s)
+[2021.01.30-05.42.43:530][588]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.01.30-05.42.43:534][588]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2021.01.30-05.42.43:534][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-05.42.43:534][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-05.42.43:534][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-05.42.43:534][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-05.42.43:534][588]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-05.42.43:534][588]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-05.42.43:534][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-05.42.43:534][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-05.42.43:535][588]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-05.42.43:535][588]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-05.42.43:540][588]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-05.42.43:540][588]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-05.42.43:553][588]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.30-05.42.43:553][588]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-05.42.43:553][588]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-05.42.43:553][588]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-05.42.43:554][588]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-05.42.43:554][588]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-05.42.43:554][588]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-05.42.43:564][588]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-05.42.43:564][588]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-05.42.43:564][588]LogInit: FAudioDevice initialized.
+[2021.01.30-05.42.43:564][588]LogAudio: Display: Audio Device (ID: 59) registered with world 'SideScrollerExampleMap'.
+[2021.01.30-05.42.43:572][588]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.01.30-05.42.43:574][588]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.01.30-00.42.43
+[2021.01.30-05.42.43:574][588]LogWorld: Bringing up level for play took: 0.002166
+[2021.01.30-05.42.43:574][588]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2021.01.30-05.42.43:576][588]PIE: Server logged in
+[2021.01.30-05.42.43:577][588]PIE: Play in editor total start time 0.114 seconds.
+[2021.01.30-05.42.44:549][700]LogBlueprintUserMessages: [SideScrollerCharacter_78] Swap
+[2021.01.30-05.42.45:132][770]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.42.45:140][771]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.42.45:149][772]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.42.53:533][778]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.42.53:624][789]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.42.54:058][841]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.42.54:599][906]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.42.59:988][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-05.42.59:988][548]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.01.30-05.42.59:988][548]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-05.42.59:988][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-05.43.00:000][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-05.43.00:037][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-05.43.00:065][548]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.30-05.43.00:066][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-05.43.00:067][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-05.43.00:078][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-05.43.00:083][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.01.30-05.43.00:130][549]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2021.01.30-05.43.03:700][940]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-05.43.03:709][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-05.43.03:709][940]PIE: New page: PIE session: SideScrollerExampleMap (Jan 29, 2021, 7:43:03 PM)
+[2021.01.30-05.43.03:709][940]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.01.30-05.43.03:718][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008634s)
+[2021.01.30-05.43.03:719][940]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.01.30-05.43.03:719][940]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2021.01.30-05.43.03:719][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009686s)
+[2021.01.30-05.43.03:752][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.01.30-05.43.03:755][940]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2021.01.30-05.43.03:755][940]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-05.43.03:755][940]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-05.43.03:755][940]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-05.43.03:755][940]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-05.43.03:755][940]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-05.43.03:755][940]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-05.43.03:755][940]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-05.43.03:755][940]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-05.43.03:755][940]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-05.43.03:755][940]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-05.43.03:760][940]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-05.43.03:760][940]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-05.43.03:773][940]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.30-05.43.03:774][940]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-05.43.03:774][940]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-05.43.03:774][940]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-05.43.03:774][940]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-05.43.03:774][940]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.30-05.43.03:774][940]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.30-05.43.03:784][940]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.30-05.43.03:784][940]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.30-05.43.03:784][940]LogInit: FAudioDevice initialized.
+[2021.01.30-05.43.03:784][940]LogAudio: Display: Audio Device (ID: 60) registered with world 'SideScrollerExampleMap'.
+[2021.01.30-05.43.03:794][940]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.01.30-05.43.03:796][940]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.01.30-00.43.03
+[2021.01.30-05.43.03:797][940]LogWorld: Bringing up level for play took: 0.002076
+[2021.01.30-05.43.03:797][940]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2021.01.30-05.43.03:798][940]PIE: Server logged in
+[2021.01.30-05.43.03:799][940]PIE: Play in editor total start time 0.091 seconds.
+[2021.01.30-05.43.07:816][413]LogBlueprintUserMessages: [SideScrollerCharacter_78] Swap
+[2021.01.30-05.43.14:038][846]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.43.14:046][847]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.43.14:055][848]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.43.14:063][849]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.43.14:071][850]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.43.14:080][851]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.43.14:088][852]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.43.14:696][925]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.43.14:704][926]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.43.14:713][927]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.43.14:721][928]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.43.18:813][419]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.43.19:346][483]LogBlueprintUserMessages: [BP_Moveable2] Push
+[2021.01.30-05.43.27:255][120]Cmd: SELECT NONE
+[2021.01.30-05.43.56:388][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-05.43.56:388][874]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.01.30-05.43.56:388][874]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-05.43.56:389][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-05.43.56:401][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-05.43.56:436][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-05.43.56:465][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-05.43.56:465][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-05.43.56:466][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.30-05.43.56:482][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.01.30-05.43.56:531][875]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2021.01.30-05.44.03:821][671]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Sprites/Fox_Book.Fox_Book
+[2021.01.30-05.45.13:011][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.01.30-05.45.13:070][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.01.30-05.45.13:090][380]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/SideScrollerExampleMap07EA0B9E4DBB896034DE3484D50AFEE3.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.01.30-05.45.13:103][380]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.063
+[2021.01.30-05.45.13:117][380]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/idle_0000C3B846F1482364DAE446F4A24EF9CFB1.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0000.uasset'
+[2021.01.30-05.45.13:132][380]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/idle_000134D531494EA5F4985C52E388131FF305.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0001.uasset'
+[2021.01.30-05.45.13:146][380]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/idle_00022E1B61E84F25A8936B8E1BA330845B62.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0002.uasset'
+[2021.01.30-05.45.13:159][380]LogSavePackage: Moving '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Saved/idle_00038DEDBD0C412F5D098F64C3B8F8658953.tmp' to '../../../../../../Game_Jam_2021/Game_Jam_2021/2021GGJ/Content/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0003.uasset'
+[2021.01.30-05.45.13:170][380]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-05.45.13:170][380]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.01.30-05.45.13:170][380]LogContentValidation: Display: Validating Texture2D /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0003.idle_0003
+[2021.01.30-05.45.13:170][380]LogContentValidation: Display: Validating Texture2D /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0002.idle_0002
+[2021.01.30-05.45.13:170][380]LogContentValidation: Display: Validating Texture2D /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0001.idle_0001
+[2021.01.30-05.45.13:170][380]LogContentValidation: Display: Validating Texture2D /Game/2DAssets/Wolf_idle/Wolf_Idle_Sequence/idle_0000.idle_0000
