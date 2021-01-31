@@ -2991,3 +2991,11 @@ Please see Output Log for details.
 [2021.01.31-01.38.43:206][480]LogFileHelpers: Saving map 'Matts_Test_world' took 0.049
 [2021.01.31-01.38.43:215][480]AssetCheck: New page: Asset Save: Matts_Test_world
 [2021.01.31-01.38.43:215][480]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/Matts_Test_world.Matts_Test_world
+[2021.01.31-02.08.31:037][ 58]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.31-02.10.51:013][ 12]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.01.31-02.11.43:505][110]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceDynamic /Game/SideScrollerBP/Maps/Matts_Test_world.Matts_Test_world:PersistentLevel.SkySphereBlueprint.SkySphereMesh.MaterialInstanceDynamic_0
+[2021.01.31-02.12.27:916][320]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/EngineSky/SM_SkySphere.SM_SkySphere
+[2021.01.31-02.12.29:266][321]LogRenderer: Reallocating scene render targets to support 1528x900 Format 10 NumSamples 1 (Frame:1).
+[2021.01.31-02.12.39:167][465]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-02.12.39:167][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.16.38:719][106]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
