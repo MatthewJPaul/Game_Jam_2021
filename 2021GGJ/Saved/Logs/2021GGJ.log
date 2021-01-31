@@ -1971,3 +1971,89 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-15.16.25:516][695]LogSavePackage: Moving 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Saved/BP_Moveable3AEE32B345C887174C0AC292DAEB340E.tmp' to 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Blueprints/BP_Moveable.uasset'
 [2021.01.31-15.16.25:535][695]AssetCheck: New page: Asset Save: BP_Moveable
 [2021.01.31-15.16.25:535][695]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/BP_Moveable.BP_Moveable
+[2021.01.31-15.17.05:063][744]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.17.05:902][807]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.18.31:079][342]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.20.06:767][175]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-15.20.06:767][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-15.20.11:318][632]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.20.11:350][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/BP_Switch" FILE="W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Blueprints/BP_Switch.uasset" SILENT=true
+[2021.01.31-15.20.11:401][632]LogSavePackage: Moving 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Saved/BP_Switch4B85F27041F9FD950D2B87AA89AAA395.tmp' to 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Blueprints/BP_Switch.uasset'
+[2021.01.31-15.20.11:418][632]AssetCheck: New page: Asset Save: BP_Switch
+[2021.01.31-15.20.11:418][632]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/BP_Switch.BP_Switch
+[2021.01.31-15.20.16:319][109]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.21.30:318][375]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.22.05:631][806]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.22.41:571][251]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.22.42:630][319]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.23.39:893][861]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.23.41:072][940]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.23.57:488][163]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.24.06:559][190]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.24.06:658][190]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2021.01.31-15.24.06:663][190]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/JosephWonderLand' took 0.077
+[2021.01.31-15.24.06:663][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/BP_Switch] ([1] browsable assets)...
+[2021.01.31-15.24.06:678][190]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/BP_Switch.BP_Switch]
+[2021.01.31-15.24.06:678][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/BP_Switch]
+[2021.01.31-15.24.06:728][190]LogSavePackage: Moving 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Saved/BP_Switch_Auto132AD8F334DFAB78C3D0871972DDB1574.tmp' to 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Saved/Autosaves/Game/SideScrollerBP/Blueprints/BP_Switch_Auto1.uasset'
+[2021.01.31-15.24.06:730][190]LogFileHelpers: Auto-saving content packages took 0.068
+[2021.01.31-15.24.44:912][304]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.24.45:505][363]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.24.47:761][589]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.24.49:039][679]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.25.25:955][302]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.25.31:229][788]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.25.33:919][ 38]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.25.56:818][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Movingplatform)
+[2021.01.31-15.26.03:429][908]LogEditorViewport: Clicking on Actor (LMB): BP_Switch_C (BP_Switch4)
+[2021.01.31-15.26.25:317][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Movingplatform)
+[2021.01.31-15.26.26:197][329]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Movingplatform)
+[2021.01.31-15.26.26:227][329]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.26.27:023][398]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.26.32:587][839]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall3)
+[2021.01.31-15.26.32:619][839]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.26.33:796][940]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.26.33:875][940]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.01.31-15.26.34:275][940]LogSavePackage: Moving 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Saved/JosephWonderLandADB3D8324181FFC440B897A1E711EBDF.tmp' to 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Maps/JosephWonderLand.umap'
+[2021.01.31-15.26.34:294][940]AssetCheck: New page: Asset Save: JosephWonderLand
+[2021.01.31-15.26.34:294][940]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/JosephWonderLand.JosephWonderLand
+[2021.01.31-15.26.36:415][129]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.26.37:884][260]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.27.58:811][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Movingplatform)
+[2021.01.31-15.27.59:270][749]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Movingplatform)
+[2021.01.31-15.27.59:279][749]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.27.59:762][790]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.28.00:403][819]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.28.01:012][856]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.28.01:566][881]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.28.21:879][586]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.28.23:588][723]LogEditorViewport: Clicking on Actor (LMB): BP_Switch_C (BP_Switch4)
+[2021.01.31-15.28.30:205][ 52]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-15.28.30:208][ 52]LogSlate: Window 'Message Log' being destroyed
+[2021.01.31-15.30.02:300][198]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.02:849][240]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.03:832][334]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.05:949][522]LogSlate: Window 'Details' being destroyed
+[2021.01.31-15.30.07:282][630]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.11:115][960]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.17:298][584]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.23:073][  0]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.26:165][272]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.28:199][414]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.35:902][ 76]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.36:517][133]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.38:805][344]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.42:155][591]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.45:487][889]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.47:823][ 67]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.48:975][151]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.53:426][517]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.55:627][708]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.56:107][757]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.30.57:203][854]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.31.13:127][303]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.31.13:665][356]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.31.15:927][574]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.31.16:479][624]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.31.17:950][729]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-15.31.19:066][829]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
