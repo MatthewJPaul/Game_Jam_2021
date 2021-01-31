@@ -824,3 +824,233 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-02.17.06:258][739]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/BP_Switch.BP_Switch
 [2021.01.31-02.17.06:585][739]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
 [2021.01.31-02.17.13:802][864]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.31-02.19.03:353][  2]LogSlate: Took 0.016747 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.31-02.22.15:930][948]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.22.19:812][364]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.22.33:598][723]LogEditorViewport: Clicking on Actor (LMB): BP_Button_C (BP_Button2)
+[2021.01.31-02.23.21:576][279]LogEditorViewport: Clicking on Actor (LMB): BP_Button_C (BP_Button2)
+[2021.01.31-02.23.24:785][504]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.25.13:782][823]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.25.14:233][856]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.25.14:240][856]LogSlate: Window 'BP_Switch' being destroyed
+[2021.01.31-02.27.52:226][853]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.28.08:127][964]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.28.11:658][219]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.28.18:364][714]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.28.30:243][670]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave SFX_LeverPull_BrittanyJohnson...
+[2021.01.31-02.28.30:250][670]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/GGJSoundAssets/GGJSoundAssets/Character/SFX_LeverPull_BrittanyJohnson.SFX_LeverPull_BrittanyJohnson will be modified from 40 to 40.
+[2021.01.31-02.28.30:294][670]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 247444 while cooking SoundWave /Game/Sound/GGJSoundAssets/GGJSoundAssets/Character/SFX_LeverPull_BrittanyJohnson.SFX_LeverPull_BrittanyJohnson.
+[2021.01.31-02.28.35:069][ 29]BlueprintLog: New page: Compile BP_Switch
+[2021.01.31-02.28.35:136][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.01.31-02.28.36:114][100]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.28.36:184][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/BP_Switch" FILE="W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Blueprints/BP_Switch.uasset" SILENT=true
+[2021.01.31-02.28.36:226][100]LogSavePackage: Moving 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Saved/BP_Switch06CE277244F7A400D0C89AB8C4B62BC9.tmp' to 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Blueprints/BP_Switch.uasset'
+[2021.01.31-02.28.36:240][100]AssetCheck: New page: Asset Save: BP_Switch
+[2021.01.31-02.28.36:240][100]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/BP_Switch.BP_Switch
+[2021.01.31-02.28.52:084][342]LogEditorViewport: Clicking on Actor (LMB): Man_C (SideScrollerCharacter)
+[2021.01.31-02.28.56:853][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Platform_Left_3DAsset_TamaraVega_7)
+[2021.01.31-02.28.58:165][772]LogEditorViewport: Clicking on Actor (LMB): Man_C (SideScrollerCharacter)
+[2021.01.31-02.29.01:152][969]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-02.29.01:160][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-02.29.01:160][969]PIE: New page: PIE session: JosephWonderLand (Jan 30, 2021, 4:29:01 PM)
+[2021.01.31-02.29.01:162][969]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.31-02.29.01:163][969]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.31-02.29.01:163][969]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_JosephWonderLand
+[2021.01.31-02.29.01:187][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024379s)
+[2021.01.31-02.29.01:189][969]LogAIModule: Creating AISystem for world JosephWonderLand
+[2021.01.31-02.29.01:189][969]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2021.01.31-02.29.01:189][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/JosephWonderLand.JosephWonderLand to /Game/SideScrollerBP/Maps/UEDPIE_0_JosephWonderLand.JosephWonderLand (0.025941s)
+[2021.01.31-02.29.01:212][969]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.01.31-02.29.01:215][969]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.01.31-02.29.01:215][969]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-02.29.01:215][969]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-02.29.01:215][969]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-02.29.01:215][969]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-02.29.01:215][969]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-02.29.01:215][969]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-02.29.01:215][969]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-02.29.01:215][969]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-02.29.01:216][969]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-02.29.01:216][969]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-02.29.01:233][969]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-02.29.01:233][969]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-02.29.01:244][969]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2021.01.31-02.29.01:244][969]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-02.29.01:244][969]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-02.29.01:244][969]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-02.29.01:245][969]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-02.29.01:245][969]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-02.29.01:245][969]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-02.29.01:263][969]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-02.29.01:263][969]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-02.29.01:263][969]LogInit: FAudioDevice initialized.
+[2021.01.31-02.29.01:263][969]LogAudio: Display: Audio Device (ID: 2) registered with world 'JosephWonderLand'.
+[2021.01.31-02.29.01:276][969]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.01.31-02.29.01:283][969]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_JosephWonderLand.JosephWonderLand up for play (max tick rate 0) at 2021.01.30-21.29.01
+[2021.01.31-02.29.01:284][969]LogWorld: Bringing up level for play took: 0.007076
+[2021.01.31-02.29.01:284][969]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.01.31-02.29.01:286][969]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.01.31-02.29.01:294][969]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.01.31-02.29.01:295][969]PIE: Server logged in
+[2021.01.31-02.29.01:297][969]PIE: Play in editor total start time 0.139 seconds.
+[2021.01.31-02.29.40:917][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-02.29.40:918][910]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_JosephWonderLand
+[2021.01.31-02.29.40:918][910]LogWorld: UWorld::CleanupWorld for JosephWonderLand, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-02.29.40:919][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.29.40:928][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-02.29.40:984][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.29.41:009][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-02.29.41:009][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-02.29.41:010][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-02.29.41:031][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-02.29.41:066][910]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2021.01.31-02.29.41:149][911]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.01.31-02.29.49:049][338]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.30.15:057][805]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.30.24:777][359]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.30.25:692][406]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.30.26:674][449]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.30.46:335][551]BlueprintLog: New page: Compile BP_Switch
+[2021.01.31-02.30.46:397][551]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.01.31-02.30.47:127][584]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.30.47:157][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/BP_Switch" FILE="W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Blueprints/BP_Switch.uasset" SILENT=true
+[2021.01.31-02.30.47:203][584]LogSavePackage: Moving 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Saved/BP_SwitchE22245734EED1AC0EEA3148C2ABB9EFB.tmp' to 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Blueprints/BP_Switch.uasset'
+[2021.01.31-02.30.47:216][584]AssetCheck: New page: Asset Save: BP_Switch
+[2021.01.31-02.30.47:216][584]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/BP_Switch.BP_Switch
+[2021.01.31-02.30.51:335][850]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-02.30.51:343][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-02.30.51:343][850]PIE: New page: PIE session: JosephWonderLand (Jan 30, 2021, 4:30:51 PM)
+[2021.01.31-02.30.51:368][850]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_JosephWonderLand
+[2021.01.31-02.30.51:389][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020805s)
+[2021.01.31-02.30.51:391][850]LogAIModule: Creating AISystem for world JosephWonderLand
+[2021.01.31-02.30.51:391][850]LogPlayLevel: PIE: World Init took: (0.002039s)
+[2021.01.31-02.30.51:391][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/JosephWonderLand.JosephWonderLand to /Game/SideScrollerBP/Maps/UEDPIE_0_JosephWonderLand.JosephWonderLand (0.023140s)
+[2021.01.31-02.30.51:420][850]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.01.31-02.30.51:422][850]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.01.31-02.30.51:423][850]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-02.30.51:423][850]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-02.30.51:423][850]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-02.30.51:423][850]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-02.30.51:423][850]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-02.30.51:423][850]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-02.30.51:423][850]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-02.30.51:423][850]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-02.30.51:423][850]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-02.30.51:423][850]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-02.30.51:441][850]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-02.30.51:441][850]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-02.30.51:452][850]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2021.01.31-02.30.51:453][850]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-02.30.51:453][850]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-02.30.51:453][850]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-02.30.51:453][850]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-02.30.51:453][850]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-02.30.51:453][850]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-02.30.51:454][850]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-02.30.51:455][850]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-02.30.51:455][850]LogInit: FAudioDevice initialized.
+[2021.01.31-02.30.51:455][850]LogAudio: Display: Audio Device (ID: 3) registered with world 'JosephWonderLand'.
+[2021.01.31-02.30.51:479][850]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.01.31-02.30.51:486][850]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_JosephWonderLand.JosephWonderLand up for play (max tick rate 0) at 2021.01.30-21.30.51
+[2021.01.31-02.30.51:486][850]LogWorld: Bringing up level for play took: 0.007156
+[2021.01.31-02.30.51:487][850]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.01.31-02.30.51:489][850]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.01.31-02.30.51:490][850]PIE: Server logged in
+[2021.01.31-02.30.51:491][850]PIE: Play in editor total start time 0.15 seconds.
+[2021.01.31-02.31.16:910][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-02.31.16:910][255]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_JosephWonderLand
+[2021.01.31-02.31.16:910][255]LogWorld: UWorld::CleanupWorld for JosephWonderLand, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-02.31.16:912][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.31.16:919][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-02.31.16:972][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.31.16:996][255]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-02.31.16:996][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-02.31.16:997][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-02.31.17:015][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-02.31.17:020][255]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.01.31-02.31.17:100][256]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.01.31-02.31.31:971][915]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.31.34:008][ 18]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.31.36:592][160]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.31.40:420][362]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.31.52:681][ 63]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.31.54:330][156]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.31.58:727][380]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.31.59:496][422]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.32.04:666][682]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.32.09:285][942]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.32.12:241][102]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.32.18:538][453]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.32.18:567][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/BP_Switch" FILE="W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Blueprints/BP_Switch.uasset" SILENT=true
+[2021.01.31-02.32.18:618][453]LogSavePackage: Moving 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Saved/BP_SwitchEAB9C4034EE80A4EC40FD4B25FC78C2F.tmp' to 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Blueprints/BP_Switch.uasset'
+[2021.01.31-02.32.18:632][453]AssetCheck: New page: Asset Save: BP_Switch
+[2021.01.31-02.32.18:632][453]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/BP_Switch.BP_Switch
+[2021.01.31-02.32.19:547][504]BlueprintLog: New page: Compile BP_Switch
+[2021.01.31-02.32.19:617][504]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.01.31-02.32.26:832][895]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.31-02.32.26:839][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.31-02.32.26:839][895]PIE: New page: PIE session: JosephWonderLand (Jan 30, 2021, 4:32:26 PM)
+[2021.01.31-02.32.26:861][895]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_JosephWonderLand
+[2021.01.31-02.32.26:881][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020124s)
+[2021.01.31-02.32.26:883][895]LogAIModule: Creating AISystem for world JosephWonderLand
+[2021.01.31-02.32.26:883][895]LogPlayLevel: PIE: World Init took: (0.001918s)
+[2021.01.31-02.32.26:883][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/JosephWonderLand.JosephWonderLand to /Game/SideScrollerBP/Maps/UEDPIE_0_JosephWonderLand.JosephWonderLand (0.022289s)
+[2021.01.31-02.32.26:913][895]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.01.31-02.32.26:915][895]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.01.31-02.32.26:916][895]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.31-02.32.26:916][895]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.31-02.32.26:916][895]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.31-02.32.26:916][895]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.31-02.32.26:916][895]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.31-02.32.26:916][895]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.31-02.32.26:916][895]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.31-02.32.26:916][895]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.31-02.32.26:916][895]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.31-02.32.26:916][895]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.31-02.32.26:933][895]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.31-02.32.26:933][895]LogAudioMixer: Display: 1: FrontRight
+[2021.01.31-02.32.26:944][895]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2021.01.31-02.32.26:945][895]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.31-02.32.26:945][895]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.31-02.32.26:945][895]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.31-02.32.26:945][895]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.31-02.32.26:945][895]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.31-02.32.26:945][895]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.31-02.32.26:963][895]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.31-02.32.26:963][895]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.31-02.32.26:963][895]LogInit: FAudioDevice initialized.
+[2021.01.31-02.32.26:963][895]LogAudio: Display: Audio Device (ID: 4) registered with world 'JosephWonderLand'.
+[2021.01.31-02.32.26:976][895]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.01.31-02.32.26:985][895]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_JosephWonderLand.JosephWonderLand up for play (max tick rate 0) at 2021.01.30-21.32.26
+[2021.01.31-02.32.26:985][895]LogWorld: Bringing up level for play took: 0.008830
+[2021.01.31-02.32.26:986][895]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.01.31-02.32.26:988][895]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.01.31-02.32.26:989][895]PIE: Server logged in
+[2021.01.31-02.32.26:990][895]PIE: Play in editor total start time 0.153 seconds.
+[2021.01.31-02.32.35:783][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-02.32.35:783][929]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_JosephWonderLand
+[2021.01.31-02.32.35:783][929]LogWorld: UWorld::CleanupWorld for JosephWonderLand, bSessionEnded=true, bCleanupResources=true
+[2021.01.31-02.32.35:784][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.32.35:792][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.31-02.32.35:842][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.31-02.32.35:865][929]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.31-02.32.35:866][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-02.32.35:867][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.31-02.32.35:885][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-02.32.35:890][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.01.31-02.32.35:972][930]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.01.31-02.34.06:074][860]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.34.06:109][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/BP_Switch" FILE="W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Blueprints/BP_Switch.uasset" SILENT=true
+[2021.01.31-02.34.06:185][860]LogSavePackage: Moving 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Saved/BP_Switch685A8E0840FC801324CB1096CDD90B2C.tmp' to 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Content/SideScrollerBP/Blueprints/BP_Switch.uasset'
+[2021.01.31-02.34.06:200][860]AssetCheck: New page: Asset Save: BP_Switch
+[2021.01.31-02.34.06:201][860]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/BP_Switch.BP_Switch
+[2021.01.31-02.34.53:172][661]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.35.09:908][165]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.31-02.35.09:958][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.01.31-02.35.10:280][165]LogSavePackage: Moving 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Saved/JosephWonderLand_Auto1BEF2CAE5447CD5A3E287D08D5736FF4A.tmp' to 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Saved/Autosaves/Game/SideScrollerBP/Maps/JosephWonderLand_Auto1.umap'
+[2021.01.31-02.35.10:283][165]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/JosephWonderLand' took 0.353
+[2021.01.31-02.35.10:283][165]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.353
+[2021.01.31-02.35.10:284][165]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/Blueprints/BP_Switch] ([1] browsable assets)...
+[2021.01.31-02.35.10:284][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/BP_Switch]
+[2021.01.31-02.35.10:323][165]LogSavePackage: Moving 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Saved/BP_Switch_Auto1D4123DCA41DECBB48F6EF9BC6CE8D31A.tmp' to 'W:/Unreal Projects/Gamejam2021/Game_Jam_2021/2021GGJ/Saved/Autosaves/Game/SideScrollerBP/Blueprints/BP_Switch_Auto1.uasset'
+[2021.01.31-02.35.10:324][165]LogFileHelpers: Auto-saving content packages took 0.041
